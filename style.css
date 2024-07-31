@@ -1,0 +1,29 @@
+img {
+    max-width: 100%;
+    max-height:100%;
+    width:1100px;
+}
+p {
+    font-size: 18px;
+    text-align: center;
+}
+svg{
+    fill:purple;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+/* image tag */
+/* max-width and max-height blow the picture up to its full size */
+/* width sets the width of the image */
+
+/* paragraph tag */
+/* font size sets font size to 18px */
+/* padding left spaces the paragraph out to the right by 50px */
+/* text align aligns the text in the center */
+
+/* svg tag */
+/* fill changes the color of the icon to purple */
